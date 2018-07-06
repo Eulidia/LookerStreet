@@ -1,5 +1,5 @@
 connection: "streeteo"
-
+#adding a line of comment
 # include all the views
 include: "*.view"
 
